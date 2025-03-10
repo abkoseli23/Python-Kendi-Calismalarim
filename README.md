@@ -1,2 +1,1 @@
-# Python-Kendi-al-malar-m
-Python Kendi Çalışmalarım
+Python Kendi Calismalarim
