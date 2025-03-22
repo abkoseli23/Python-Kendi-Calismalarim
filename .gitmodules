@@ -1,0 +1,3 @@
+[submodule "learn_python"]
+	path = learn_python
+	url = https://github.com/abkoseli23/Python-Kendi-Calismalarim.git
